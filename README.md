@@ -6,10 +6,9 @@ This project applies data science techniques to extract, clean, and visualize fi
 
 ## Objective
 
-As a data scientist working for an investment firm, the goal is to analyze the relationship between **stock price** and **quarterly revenue** for Tesla and GameStop. The data is obtained from:
+As a data scientist working for an investment firm, the goal is to analyze the relationship between **stock price** and **quarterly revenue** for Tesla and GameStop.
 
-- 🟦 [Yahoo Finance](https://finance.yahoo.com) using the `yfinance` API
-- 🟧 [Macrotrends](https://www.macrotrends.net) using `BeautifulSoup` for web scraping
+Note: Graphs cannot be previewed, it is recommended to run the make_graph function in your work environment.
 
 ---
 
